@@ -1,0 +1,9 @@
+.navbar-brand{
+    font-size: 50px;
+    font-family: fantasy;
+    text-decoration-style: dotted;
+}
+
+.navbar{
+    padding-inline-start: 100px;
+}
