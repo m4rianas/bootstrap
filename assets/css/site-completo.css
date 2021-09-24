@@ -19,10 +19,13 @@
 }
 
 .container{
+
 padding-left: 300px;
 text-align: center;
 font-style: oblique;
-
+}
   
-
+#ff{
+    text-align: center;
+    padding-left: 70px;
 }
