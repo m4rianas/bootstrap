@@ -1,0 +1,15 @@
+.form-inline{
+    padding-left: 380px;
+    padding-right: 10px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.card-img-top{
+    width: 400px;
+    height: 400px;
+}
+
